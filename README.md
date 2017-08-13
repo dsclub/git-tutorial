@@ -6,10 +6,13 @@ Get some commands:
 - git add
 - git commit
 	- git commit -m "some text"
+	- git commit --amend
 - git status
 - git log [filename]
 	- git log -p [filename]
 	- git log --graph
+- git reflog
+- git rebase -i
 - git diff
 	- git diff HEAD
 ## Branch
@@ -21,4 +24,3 @@ Get some commands:
 	- git checkout -b newbranchname
 - git merge [--no-ff] featurebranchname
 
-Fix B	
