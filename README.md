@@ -24,3 +24,4 @@ Get some commands:
 	- git checkout -b newbranchname
 - git merge [--no-ff] featurebranchname
 
+feature-C
