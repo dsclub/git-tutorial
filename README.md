@@ -1,4 +1,5 @@
 # Git Tutorial
+## Usual command
 Get some commands:
 - git clone
 - git init
@@ -10,5 +11,10 @@ Get some commands:
 	- git log -p [filename]
 - git diff
 	- git diff HEAD
-
-# View Feature-A
+## Branch
+- git branch
+	- git branch newbranchname
+- git checkout
+	- git checkout -
+	- git checkout branchname
+	- git checkout -b newbranchname
