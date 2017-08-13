@@ -9,6 +9,7 @@ Get some commands:
 - git status
 - git log [filename]
 	- git log -p [filename]
+	- git log --graph
 - git diff
 	- git diff HEAD
 ## Branch
