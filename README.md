@@ -19,9 +19,15 @@ Get some commands:
 ## Branch
 - git branch
 	- git branch newbranchname
+	- git branch -a
 - git checkout
 	- git checkout -
 	- git checkout branchname
 	- git checkout -b newbranchname
 - git merge [--no-ff] featurebranchname
 
+## Push
+- git remote add
+	- git remote add origin git@github.com:username/repositoryname.git
+- git push
+	- git push -u origin branchname
