@@ -18,3 +18,4 @@ Get some commands:
 	- git checkout -
 	- git checkout branchname
 	- git checkout -b newbranchname
+- git merge [--no-ff] featurebranchname
