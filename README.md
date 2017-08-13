@@ -7,6 +7,7 @@ Get some commands:
 - git commit
 	- git commit -m "some text"
 	- git commit --amend
+	- git commit --am "some text"
 - git status
 - git log [filename]
 	- git log -p [filename]
@@ -24,4 +25,3 @@ Get some commands:
 	- git checkout -b newbranchname
 - git merge [--no-ff] featurebranchname
 
-feature-C
