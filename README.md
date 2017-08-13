@@ -20,3 +20,5 @@ Get some commands:
 	- git checkout branchname
 	- git checkout -b newbranchname
 - git merge [--no-ff] featurebranchname
+
+Fix B	
