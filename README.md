@@ -36,4 +36,3 @@ Get some commands:
 
 When commit something with #num, this message can be published in Issues.
 
-No working!!!
