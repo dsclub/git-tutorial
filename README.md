@@ -31,3 +31,7 @@ Get some commands:
 	- git remote add origin git@github.com:username/repositoryname.git
 - git push
 	- git push -u origin branchname
+
+## Learn GitHub Web
+
+When commit something with #num, this message can be published in Issues.
