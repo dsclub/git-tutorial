@@ -48,4 +48,30 @@ Git的另一大显著特点就是优秀的**分支**管理能力。尽管其他�
 
 Git早已进入主流。很多项目像Linux、Ruby on Rails、jQuery以及很多其他的重要开源项目，当然还有很多大公司（Google、Facebook和Twitter等）都在使用它。由此可见，Git的品质和生命期都是有保证的。
 
+## 安装Git
+
+现在，安装Git变得难以置信的容易了。（你太走运了！）
+
+对于[Mac](http://code.google.com/p/git-osx-installer)和[Windows](http://code.google.com/p/msysgit)平台都提供了一键安装的程序。
+
+为了能够向下继续跟随此教程，请先在你的电脑上安装好对应的Git。
+
+当然，手头准备好为你提供的[Git作弊码表](https://www.git-tower.com/blog/git-cheat-sheet/)在我们深入钻研Git时也非常必要。
+
+有了Git作弊码表，你不用在担心去记住所有的Git命令了，同时你也能够自己摸索Git而不用刻意遵循本教程。
+
+![Git作弊码表](../images/git-cheat-sheet.png)
+
+在安装好Git后，是时候启动命令行了。
+
+在开始之前有两个最基本的设置需要设置好：你的名字和邮箱。
+
+要完成设置姓名和邮箱，请遵照下面列出的命令，并将它们修改为你自己的姓名和邮箱地址：
+
+`
+$ git config --global user.name "你的姓名"
+$ git config --global user.email "你的@email"
+`
+
+
 [^ref]: 本文摘自 https://www.webpagefx.com/blog/web-design/easy-git-tutorial/
