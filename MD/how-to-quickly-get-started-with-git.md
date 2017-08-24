@@ -202,6 +202,31 @@ $ git log
 
 ![git log](../images/git_log.png)
 
+## 下一步，精通Git
+
+可喜可贺，到目前为止你已经把握了版本控制和Git的一些重要概念。
+
+想让自己的Git水平再升一级的话，我建议你遵循以下步骤。
+
+### 尝试使用一款Git图形界面程序
+
+使用客户端程序可以让一些任务完成起来更简单，更人性化，更别提不用去记住一大堆的命令代码和参数了。
+
+Windows用户可能会使用[Tortoise Git](http://code.google.com/p/tortoisegit)，而Mac OS用户可能会用到[Tower](http://www.git-tower.com/)，这是我和团队共同开发的一款Git桌面客户端程序。
+
+![Tower](../images/git_twr.jpg)
+
+### 一些Git的学习资源
+
+最近几年，有关Git的文档、教程和文章成几何级数的增长。
+
+阅读以下资源可以让你更好的学会使用Git：
+
+- [Compilation of Git learning resources (books, articles, tutorials)](http://www.git-tower.com/learn/)
+- [Git – the Simple Guide](http://rogerdudler.github.io/git-guide/)
+- [Pro Git e-book (free)](http://git-scm.com/book)
+- [Version Control with Git: Powerful tools and techniques for collaborative software development](http://amzn.to/15jjdPt)
+- [Git Pocket Guide](http://amzn.to/13JiFmi)
 
 
 
