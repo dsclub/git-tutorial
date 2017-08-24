@@ -97,6 +97,14 @@ $ git clone https://github.com/gittower/git-crash-course.git
 
 ### 创建新仓库
 
+另一种需要开始使用版本控制的情况是：你要对当前存在的项目应用版本控制管理。
+
+在命令行模式下进入到目标工程的根目录下，然后使用下面的`git init`命令开启版本控制：
+
+```git 
+$ git init
+```
+
 
 
 
