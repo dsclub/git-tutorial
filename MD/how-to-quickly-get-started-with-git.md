@@ -228,6 +228,10 @@ Windows用户可能会使用[Tortoise Git](http://code.google.com/p/tortoisegit)
 - [Version Control with Git: Powerful tools and techniques for collaborative software development](http://amzn.to/15jjdPt)
 - [Git Pocket Guide](http://amzn.to/13JiFmi)
 
+## 结语
 
+版本控制越来越成为现代程序开发人员工作流程中的组成部分。
+
+版本控制曾经是非常繁杂的事情，而像Git这样的版本控制系统则令版本控制这件事情变得傻瓜级简单了，虽然简单但依然为工作流提供了非常多的好处。
 
 [^ref]: 本文摘自 https://www.webpagefx.com/blog/web-design/easy-git-tutorial/
