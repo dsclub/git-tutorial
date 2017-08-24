@@ -190,6 +190,18 @@ $ git rm error.html
 $ git commit -m "实现新的登录对话框"
 ```
 
+### 检查提交历史
+
+如果你想查看截至当前的工程都发生过什么，可以使用`git log`命令：
+
+```git
+$ git log
+```
+
+这条Git命令会列出所有按时间次序出现的提交记录。
+
+![git log](../images/git_log.png)
+
 
 
 
