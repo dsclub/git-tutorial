@@ -172,6 +172,18 @@ $ git rm error.html
 
 此时，我们可以再来看看`git status`的输出结果，另外会注意到*imprint.html*文件也被标注为已修改的状态。我是故意没有在这次的`git add`命令中暂存这个文件的，因为我想把它留到之后的提交中。
 
+### 回看之前的提交
+
+再次重申，我建议过在进行提交之前一定要用`git status`查看一下。
+
+这里给出我已经暂存准备提交的文件情况：
+
+![git status](../images/git_status02.png)
+
+*Changes to be committed*这一段的内容是告知你哪些是已经暂存了的。
+
+### 确定提交
+
 
 
 
