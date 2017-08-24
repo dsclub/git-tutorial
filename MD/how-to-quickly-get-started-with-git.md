@@ -68,10 +68,36 @@ Git早已进入主流。很多项目像Linux、Ruby on Rails、jQuery以及很�
 
 要完成设置姓名和邮箱，请遵照下面列出的命令，并将它们修改为你自己的姓名和邮箱地址：
 
-`
+```git
 $ git config --global user.name "你的姓名"
 $ git config --global user.email "你的@email"
-`
+```
+## 使用Git开启你的第一个仓库
+
+使用版本控制开始管理一个工程项目一般有两种方式：**克隆**现有的一个仓库或者是新建一个仓库。
+
+### 克隆现有的仓库
+
+当你准备使用一个已经在运行版本控制系统的项目时，该项目的仓库一般会在远程服务器上为你提供一个URL。
+
+那么**仓库**是什么？它只不过是组成该项目的一些列文件和文件夹的术语叫法而已。
+
+比如，可以在[GitHub网站上的jQuery仓库](https://github.com/jquery/jquery)检出该内容：
+
+![jQuery仓库](../images/github_jquery_repository.jpg)
+
+要将该工程的仓库复制到你的电脑上，请使用`git clone`命令：
+
+```git
+$ git clone https://github.com/gittower/git-crash-course.git
+```
+上面的的命令能够把https://github.com/gittower/git-crash-course.git这个指定位置上的仓库内容下载你的电脑上。
+
+> 注意：如果你还没有仓库，你可以很轻松的使用上述Git命令进行克隆，而且可以肆无忌惮的折腾这个测试仓库所包含的内容。你也可以随意在[GitHub](https://github.com/repositories)上浏览你感兴趣的工程仓库，然后把它克隆到你的电脑上。
+
+### 创建新仓库
+
+
 
 
 [^ref]: 本文摘自 https://www.webpagefx.com/blog/web-design/easy-git-tutorial/
